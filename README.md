@@ -28,7 +28,7 @@ This repository contains three assignments and a master thesis that were made as
 
   The data provided consists of transcribed English speech. Some of these sentences were originally uttered in English (label 0), others were originally uttered in French and then translated by a human translator into English (label 1).
 
-- Assignment 3: 
+- Assignment 3: Prediction in R
 
   This is a mandatory group-assignment that was created for the course Programming with R during the winter semester of 2020. Team members were Vira H., Trang L., Sue Y., Jennifer Z.L. and myself. Grade received was 10/10 which was worth 30% of the final grade. The teams had to chose a dataset and a reasearch topic and write a short research paper using R software environment. 
   
